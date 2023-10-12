@@ -1,0 +1,1 @@
+{"step": 0.02, "interval": {"t0": 0, "t1": 75}, "noise": {"sig_x": 0.01345, "sig_y": 0.01, "sig_z": 0.01}, "sigma": 10, "beta": 2.667, "ro": 28, "start_point": {"x": 0, "y": 1, "z": 1.05}}
